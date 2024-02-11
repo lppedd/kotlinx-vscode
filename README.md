@@ -8,7 +8,7 @@ A collection of utilities to make it possible to develop VS Code extensions in K
 - [ ] ESM support in VS Code  
       https://github.com/microsoft/vscode/issues/201935
 
-## Necessary components
+## Components
 
 - [ ] Mocha externals  
       https://www.npmjs.com/package/@types/mocha
